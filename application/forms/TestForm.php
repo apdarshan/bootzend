@@ -5,8 +5,8 @@ class Application_Form_TestForm extends Zend_Form
 
     public function init()
     {
-        /* Form Elements & Other Definitions Here ... */
-	// Make this form horizontal
+       
+			// Make this form horizontal
 		$this->setAttrib("horizontal", true);
 
 		$this->addElement("text", "username", array(
@@ -52,23 +52,23 @@ class Application_Form_TestForm extends Zend_Form
 			)
 		));
 
-		//$this->addElement("multicheckbox", "multichecks", array(
-		//	"description" => "This is a nice thing.",
-		//	"label" => "Foobar",
-		//	"multiOptions" => array(
-		//		"1" => "I agree to the terms",
-		//		"0" => "I don't agree to the terms"
-		//	)
-		//));
+		// $this->addElement("multicheckbox", "multichecks", array(
+		// 	"description" => "This is a nice thing.",
+		// 	"label" => "Foobar",
+		// 	"multiOptions" => array(
+		// 		"1" => "I agree to the terms",
+		// 		"0" => "I don't agree to the terms"
+		// 	)
+		// ));
 
-		//$this->addElement("multicheckbox", "multichecks2", array(
-		//	"label" => "Inline checkboxes",
-		//	"inline" => true,
-		//	"multiOptions" => array(
-		//		"1" => "One",
-		//		"0" => "Two"
-		//	)
-		//));
+		// $this->addElement("multicheckbox", "multichecks2", array(
+		// 	"label" => "Inline checkboxes",
+		// 	"inline" => true,
+		// 	"multiOptions" => array(
+		// 		"1" => "One",
+		// 		"0" => "Two"
+		// 	)
+		// ));
 
 		$this->addElement("file", "file", array(
 			"label" => "Please upload a file",
@@ -96,7 +96,7 @@ class Application_Form_TestForm extends Zend_Form
 			"class" => "success",
 			"label" => "Custom classes, too!"
 		));
-    }
+	}
 
 
 }
