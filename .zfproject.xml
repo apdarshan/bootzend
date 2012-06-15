@@ -13,7 +13,9 @@
         </controllerFile>
         <controllerFile controllerName="Error"/>
       </controllersDirectory>
-      <formsDirectory enabled="false"/>
+      <formsDirectory enabled="false">
+        <formFile formName="TestForm"/>
+      </formsDirectory>
       <layoutsDirectory enabled="false"/>
       <modelsDirectory/>
       <modulesDirectory enabled="false"/>
