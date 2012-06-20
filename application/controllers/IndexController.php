@@ -6,14 +6,20 @@ class IndexController extends Zend_Controller_Action
     public function init()
     {
         /* Initialize action controller here */
+        $ajaxContext = $this->_helper->getHelper('AjaxContext');
+        $this->view->userInfo = Zend_Auth::getInstance()->getStorage()->read();  
+        // $ajaxContext->addActionContext('logout', 'html')
+        //             ->addActionContext('changePass', 'xml')
+        //             ->initContext();
     }
 
     public function indexAction()
     {
+            $this->_helper->layout->disableLayout();
 			// If we're already logged in, just redirect  
             if(Zend_Auth::getInstance()->hasIdentity())  
             {  
-               // $this->_redirect('registrations/index');  
+                $this->_redirect('registrations/index');  
             }
 
             $loginForm = new Application_Form_Login;
@@ -45,8 +51,8 @@ class IndexController extends Zend_Controller_Action
                         $userInfo = $authAdapter->getResultRowObject(null, 'password');
                         // the default storage is a session with namespace Zend_Auth  
                         $authStorage = $auth->getStorage();  
-                        $authStorage->write($userInfo);     
-                        $this->_redirect('registrations/index');  
+                        $authStorage->write($userInfo);
+                        $this->_redirect("registrations/index");  
                     }
                     else  
                     {  
@@ -58,5 +64,45 @@ class IndexController extends Zend_Controller_Action
             $this->view->loginForm = $loginForm; 
     }
 
+    public function logoutAction()
+    {
+        // action body
+        // clear everything - session is cleared also!  
+        Zend_Auth::getInstance()->clearIdentity();  
+        $this->_redirect('/');  
+    }
+
+    public function changepassAction()
+    {
+        // action body
+        if(!Zend_Auth::getInstance()->hasIdentity())  
+        {  
+            $this->_redirect('/');  
+        } 
+    }
+
+    public function forgotpassAction()
+    {
+        // action body
+    }
+
+    public function changephoneAction()
+    {
+        // action body
+        if(!Zend_Auth::getInstance()->hasIdentity())  
+        {  
+            $this->_redirect('/');  
+        } 
+    }
+
+
 }
+
+
+
+
+
+
+
+
 

@@ -1,6 +1,6 @@
 <?php
 
-class RegistrationsController extends Zend_Controller_Action
+class DashboardController extends Zend_Controller_Action
 {
 
     public function init()

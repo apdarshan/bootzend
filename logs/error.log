@@ -1,67 +1,220 @@
-[Tue Jun 19 08:39:29 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:40:41 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:40:45 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:40:48 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:40:51 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:40:55 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:41:06 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:41:10 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:41:11 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:41:17 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:41:19 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 08:41:26 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:06:28 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:07:07 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:07:14 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:07:17 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:07:59 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:13:28 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:13:31 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:13:32 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:13:37 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:14:59 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:15:02 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:17:27 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:17:32 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:17:45 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:20:19 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:20:20 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:20:25 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:20:42 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:21:04 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:21:09 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:23:05 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:23:10 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 09:31:02 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:00 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:00 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:00 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:00 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:01 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:01 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:01 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:03 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:06 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:09 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:13 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:17 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:45 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:46 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:48 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:54 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:39:55 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:40:38 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:40:40 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:40:41 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:40:42 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:40:43 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:40:47 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:41:30 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:41:38 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:41:40 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:41:40 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:41:42 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:42:45 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:43:04 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:43:32 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
-[Tue Jun 19 10:43:45 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:31:51 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:31:51 2012] [error] [client 127.0.0.1] stdClass Object\n(\n    [user_id] => 1\n    [fullname] => darshan\n    [role_id] => \n    [username] => d\n    [zone_id] => \n    [district_id] => \n    [taluk_id] => \n    [hobli_id] => \n    [kiosk_id] => \n    [email_id] => \n    [phone_no] => 9743202986\n    [address] => \n    [forgot_password_key] => \n    [last_login_at] => \n    [user_status] => \n    [mac_id] => \n    [created_at] => \n    [updated_at] => 2012-06-19 09:05:54\n    [usercol1] => \n    [usercol2] => \n    [usercol3] => \n    [usercol4] => \n    [usercol5] => \n)\n, referer: http://ins.localhost/
+[Wed Jun 20 09:38:27 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:38:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:38:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:38:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:38:31 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/dashboard.html
+[Wed Jun 20 09:38:32 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/home.html
+[Wed Jun 20 09:38:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/users.html
+[Wed Jun 20 09:38:36 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/home.html
+[Wed Jun 20 09:43:11 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/
+[Wed Jun 20 09:43:12 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/
+[Wed Jun 20 09:43:13 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/
+[Wed Jun 20 09:43:13 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/
+[Wed Jun 20 09:43:15 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/
+[Wed Jun 20 09:43:15 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:43:15 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:43:32 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:43:33 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:43:33 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:43:33 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:43:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:43:37 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:39 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:40 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:43:45 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:45 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:45 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:45 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:45 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:45 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:45 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:45 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:43:46 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:44:03 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:44:05 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:44:05 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:44:07 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:44:07 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:44:08 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:44:09 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:44:10 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:44:12 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/dashboard
+[Wed Jun 20 09:44:12 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:44:13 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/users
+[Wed Jun 20 09:44:13 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:44:14 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations
+[Wed Jun 20 09:44:14 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:44:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:17 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:17 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:20 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:45:20 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:23 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:24 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/
+[Wed Jun 20 09:45:25 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:25 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/
+[Wed Jun 20 09:45:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/
+[Wed Jun 20 09:45:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/
+[Wed Jun 20 09:45:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/
+[Wed Jun 20 09:45:27 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:27 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/
+[Wed Jun 20 09:45:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/
+[Wed Jun 20 09:45:29 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:29 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:31 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:32 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:45:32 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:33 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:45:33 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:45:33 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/index
+[Wed Jun 20 09:45:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:41 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:53 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:54 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:45:58 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:45:58 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:59 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:45:59 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:46:01 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:46:02 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:46:03 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/users
+[Wed Jun 20 09:46:03 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:46:04 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/dashboard
+[Wed Jun 20 09:46:04 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:46:04 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations
+[Wed Jun 20 09:46:04 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:46:05 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations
+[Wed Jun 20 09:46:05 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:46:05 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations
+[Wed Jun 20 09:46:05 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:46:06 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/dashboard
+[Wed Jun 20 09:46:06 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:46:06 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/users
+[Wed Jun 20 09:46:06 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:46:09 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:13 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:14 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:14 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:14 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:16 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:17 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:17 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:21 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:21 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:48:21 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:48:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:48:23 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:23 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:48:23 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:48:23 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:14 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:15 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:15 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:19 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:22 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:26 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:49:26 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:49:27 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:49:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:49:28 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:49:29 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/dashboard
+[Wed Jun 20 09:49:29 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:30 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/users
+[Wed Jun 20 09:49:30 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:31 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations
+[Wed Jun 20 09:49:31 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:32 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changephone
+[Wed Jun 20 09:49:34 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:49:35 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/index/changepass
+[Wed Jun 20 09:49:37 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/dashboard
+[Wed Jun 20 09:49:37 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:37 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/users
+[Wed Jun 20 09:49:37 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:40 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:43 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:49:43 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:47 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:49:47 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
+[Wed Jun 20 09:49:56 2012] [error] [client 127.0.0.1] yes post it is, referer: http://ins.localhost/
+[Wed Jun 20 09:49:56 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73, referer: http://ins.localhost/registrations/index
+[Wed Jun 20 09:49:58 2012] [error] [client 127.0.0.1] PHP Notice:  Trying to get property of non-object in /var/www/bootzend/application/layouts/scripts/layout.phtml on line 73
