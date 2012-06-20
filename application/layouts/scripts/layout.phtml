@@ -12,9 +12,7 @@
       body {
         padding-top: 200px; /* 60px to make the container go all the way to the bottom of the topbar */
       }
-      .navcolorchange { 
-      background-color: red; /* fallback color, place your own */
-      } 
+      
     </style>
     <link href="/assets/css/bootstrap-responsive.css" rel="stylesheet">
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -34,6 +32,7 @@
       }
 
     </style>
+
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -64,9 +63,10 @@
           </a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li class="active newfontcolor "><a href="<?php echo $this->url(array('controller'=>'registrations','action'=>'index'),null,true); ?>" >Registrations</a></li>
-              <li ><a href="<?php echo $this->url(array('controller'=>'dashboard','action'=>'index'),null,true); ?>" style="color: #fff;" >Dashboard</a></li>
-              <li class="custom-disable"><a href="<?php echo $this->url(array('controller'=>'users','action'=>'index'),null,true); ?>" style="color: #fff;">Users</a></li>
+
+              <li><a href="<?php echo $this->url(array('controller'=>'registrations','action'=>'index'),null,true); ?>" style="color: #fff;" >Registrations</a></li>
+              <li><a href="<?php echo $this->url(array('controller'=>'dashboard','action'=>'index'),null,true); ?>" style="color: #fff;" >Dashboard</a></li>
+              <li><a href="<?php echo $this->url(array('controller'=>'users','action'=>'index'),null,true); ?>" style="color: #fff;">Users</a></li>
             </ul>
             <div class="btn-group pull-right">
 	            <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
@@ -115,6 +115,16 @@
     <script src="/assets/js/custom.js"></script>
     <script src="/assets/js/convertor.js"></script>
     <script src="/assets/js/kan.js"></script>
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+      var controllername = '<?php echo Zend_Controller_Front::getInstance()->getRequest()->getControllerName(); ?>' ;
+      controllername = controllername.toLowerCase().replace(/\b[a-z]/g, function(letter) {
+    				return letter.toUpperCase();
+					});
+      $(".nav li a:contains("+controllername+")").parent().addClass("active newfontcolor"); 
+    });
+    </script>
 
   </body>
 </html>
